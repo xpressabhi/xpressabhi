@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... selftest.app
+- 🔭 I’m currently working on ... https://selftest.app
 - 🌱 I’m currently learning ... javascript, react
 - 👯 I’m looking to collaborate on ... nothing as such.
 - 🤔 I’m looking for help with ... nothing as such for now.
