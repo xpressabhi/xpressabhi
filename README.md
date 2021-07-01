@@ -4,11 +4,9 @@ I am a fullstack software engineer from Hyderabad, India.
 - 🌱 Learning microservices architecture in depth.
 <br>
 
-<img align="left" alt="twitter" src="http://github-readme-streak-stats.herokuapp.com?user=xpressabhi&theme=dark" /> \        
-<br>
-<br>
-<br>
-<br>
+<img align="left" alt="twitter" src="http://github-readme-streak-stats.herokuapp.com?user=xpressabhi&theme=dark" />         
+
+
 
 ## Connect with me
 
