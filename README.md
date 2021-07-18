@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from Hyderabad, India.
 - 🔭 Working on multiple frontend and backend project using Javascript, Meteor, React and Nodejs
-- 🌱 Learning microservices architecture in depth.
+- 🌱 Learning JavaScript in depth.
 <br>
 
 
