@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a frontend software engineer with 11+ years experience from Hyderabad, India.
-- 🔭 Working on multiple frontend and backend project using Javascript, Meteor, React and Nodejs
+- 🔭 Working on multiple frontend and backend project using Javascript, Meteor, React, NextJs and Nodejs
 - 🌱 Learning JavaScript in depth.
 - Hobby Project https://selftest.app
 <br>
