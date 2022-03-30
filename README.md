@@ -30,14 +30,14 @@ I am a frontend software engineer with 11+ years experience from Hyderabad, Indi
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
-
-<br /><br /><br />
-
+<br> <br>
 
 
 
+## Stats
 
 <img align="left" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=xpressabhi&theme=dark" />         
