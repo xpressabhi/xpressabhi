@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontend software engineer with 12+ years experience from Hyderabad, India.
+I am a Lead Software Engineer at Reputation | Ex- Oracle | NIT Trichy with 12+ years experience from Hyderabad, India.
 - 🔭 Working on multiple frontend and backend project using Javascript, Meteor, React, NextJs and Nodejs
 - 🌱 Learning JavaScript in depth.
 - Hobby Project https://selftest.app
