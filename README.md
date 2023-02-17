@@ -23,7 +23,7 @@ I am a Senior Frontend Engineer at Rippling. Ex-Reputation | Ex- Oracle | NIT Tr
 
 
 
-## Expertise/Skills
+## Skills
 
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
