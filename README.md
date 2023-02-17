@@ -22,6 +22,8 @@ I am a Senior Frontend Engineer at Rippling. Ex-Reputation | Ex- Oracle | NIT Tr
 
 
 
+## Core Skills
+Data Structures & Algorithms, Problem Solving
 
 ## Skills
 
