@@ -19,22 +19,22 @@ I am a Senior Frontend Engineer at Rippling. Ex-Reputation | Ex- Oracle | NIT Tr
 
 
 ## Core Skills
-Architecting Solutions 
-Problem Solving
-Data Structures Algorithms
-Frontend Development 
-JavaScript, ES6+ TypeScript
-NodeJS
-ReactJS, NextJS
-Full Stack - MeteorJS
-Redux Toolkit, RTK Query 
-HTML, CSS, Bootstrap 
-Progressive Web Apps (PWA) 
-Web Performance
-Web Accessibility
-Build Tool - Webpack, Vite 
-Test - Jest, Playwright 
-Observability Tools - Sentry, LogRocket, DataDog
+- Architecting Solutions 
+- Problem Solving
+- Data Structures Algorithms
+- Frontend Development 
+- JavaScript, ES6+ TypeScript
+- NodeJS
+- ReactJS, NextJS
+- Full Stack - MeteorJS
+- Redux Toolkit, RTK Query 
+- HTML, CSS, Bootstrap 
+- Progressive Web Apps (PWA) 
+- Web Performance
+- Web Accessibility
+- Build Tool - Webpack, Vite 
+- Test - Jest, Playwright 
+- Observability Tools - Sentry, LogRocket, DataDog
 
 ## Skills
 
