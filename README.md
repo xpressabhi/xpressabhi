@@ -2,12 +2,7 @@
 I am a Senior Frontend Engineer at Rippling. Ex-Reputation | Ex- Oracle | NIT Trichy with 13+ years experience from Hyderabad, India.
 - 🔭 Working on multiple frontend and backend project using Javascript, Meteor, React, NextJs and Nodejs
 - 🌱 Learning JavaScript in depth.
-- Hobby Project https://selftest.app
 <br>
-
-
-
-
 
 ## Connect with me
 
