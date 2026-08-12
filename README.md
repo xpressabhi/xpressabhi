@@ -30,7 +30,7 @@ Staff Software Engineer at **ServiceNow**, focused on **AI Agents, MCP & Harness
 - **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
-- **Backend & Data** — Python, Java, C# / .NET, REST APIs, MongoDB, Meteor, Oracle Database, Oracle ODI, SQL / PLSQL
+- **Backend & Data** — Python, Java, REST APIs, MongoDB, Meteor, Oracle Database, Oracle ODI, SQL / PLSQL
 - **Observability** — Sentry, LogRocket, Datadog, Sumo Logic
 
 ## Experience Highlights
@@ -46,10 +46,10 @@ Staff Software Engineer at **ServiceNow**, focused on **AI Agents, MCP & Harness
 
 ## Notable Impact
 
-- **Agentic Developer Platform (ADP)** — Multi-tenant bootstrap and governance infrastructure for Claude Code, MCP servers, agents, and skills. Built in four weeks, rolled out to 7 pilot squads across 20+ teams with 20+ skills and 20+ agents.
+- **Agentic Developer Platform (ADP)** — Multi-team bootstrap and governance infrastructure for Claude Code, MCP servers, agents, and skills. Built in four weeks, rolled out to 7 pilot squads across 20+ teams with 20+ skills and 20+ agents.
 - **MCP-driven engineering workflows** — Integrated MCP-driven agentic workflows into the engineering lifecycle organization-wide. Reduced research and debugging effort by approximately 95% while improving accuracy.
-- **Build Agent, ServiceNow Studio** — Elevated App Engine with agentic workflows for AI-assisted application creation, flow generation, and tool orchestration. Led the metadata-aware, multi-model (Now LLM + Claude on Bedrock) self-healing architecture.
-- **Release lifecycle & app summary agents** — Automated delta analysis, human-readable release notes, and CAB-ready deployment manifests. Documentation time went from hours to a single click.
+- **Build Agent, ServiceNow Studio** — Elevated App Engine with agentic workflows for AI-assisted application creation, flow generation, and tool orchestration across 35+ metadata types and 11 domains. Led the metadata-aware, multi-model (Claude Opus 4.6 default; Now LLM + Claude on Bedrock), self-healing agentic architecture.
+- **Release lifecycle & app summary agents** — Automated delta analysis, human-readable release notes, and CAB-ready deployment manifests — documentation time from hours to a single click. Ships as the Release lifecycle documentation agent in Now Assist for Creator.
 
 ## Personal Projects
 
