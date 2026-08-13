@@ -14,7 +14,7 @@ Staff Software Engineer at **ServiceNow**, focused on **AI Agents, MCP & Harness
 ## Portfolio & CV
 
 - 🌐 Portfolio: https://xpressabhi.github.io
-- 📄 CV (with PDF download): https://xpressabhi.github.io/cv/
+- 📄 CV (with PDF download): https://xpressabhi.github.io/resume/
 
 ## Connect with me
 
@@ -27,10 +27,11 @@ Staff Software Engineer at **ServiceNow**, focused on **AI Agents, MCP & Harness
 ## Core Skills
 
 - **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
-- **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems
+- **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, LLM APIs (Anthropic, OpenAI, Gemini), Amazon Bedrock, LangChain / LangGraph, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
 - **Backend & Data** — Python, Java, REST APIs, MongoDB, Meteor, Oracle Database, Oracle ODI, SQL / PLSQL
+- **CI/CD & Tooling** — GitHub Actions, Jenkins, Docker
 - **Observability** — Sentry, LogRocket, Datadog, Sumo Logic
 
 ## Experience Highlights
@@ -57,7 +58,6 @@ Staff Software Engineer at **ServiceNow**, focused on **AI Agents, MCP & Harness
 - [lifetimetax.vercel.app](https://lifetimetax.vercel.app) — Lifetime tax liability calculator
 - [airoadtripplanner.vercel.app](https://airoadtripplanner.vercel.app) — AI-powered road trip planner
 - [faang-cv.vercel.app](https://faang-cv.vercel.app) — CV builder tuned for FAANG-style applications
-- [uberpro.in](https://uberpro.in) — Order management app for businesses
 
 ## Stats
 
