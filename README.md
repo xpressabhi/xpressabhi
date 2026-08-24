@@ -32,7 +32,7 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 ## Core Skills
 
 - **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
-- **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, LLM APIs (Anthropic, OpenAI, Gemini), Amazon Bedrock, LangChain / LangGraph, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems, REAct agents, Planning pattern (think first, then execute), Multi-agent orchestration, Local LLM inference (Ollama, MLX)
+- **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, LLM APIs (Anthropic, OpenAI, Gemini), Amazon Bedrock, LangChain / LangGraph, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems, REAct agents, Planning pattern (think first, then execute), Multi-agent orchestration, Local LLM inference (Ollama, MLX), On-device inference (iOS/Metal), llama.cpp / GGUF, Model quantization (GGUF ladders, imatrix), Vision-language models, LoRA fine-tuning (MLX)
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
 - **Backend & Data** — Python, Java, REST APIs, MongoDB, Meteor, Oracle Database, Oracle ODI, SQL / PLSQL
@@ -59,6 +59,7 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 ## Personal Projects
 
+- [ordo](https://xpressabhi.github.io/ordo/) — Ordo take-home: on-device vision-language model — Qwen2-VL-2B on llama.cpp across a GGUF quantization ladder, deployed to iPhone (A16), with a private photo eval set, per-stage TTFT decomposition, and LoRA accuracy recovery
 - [selftest.in](https://selftest.in) — Self-testing and government job preparation app powered by the Gemini API
 - [lifetimetax.vercel.app](https://lifetimetax.vercel.app) — Lifetime tax liability calculator
 - [airoadtripplanner.vercel.app](https://airoadtripplanner.vercel.app) — AI-powered road trip planner
