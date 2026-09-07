@@ -31,11 +31,11 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 ## Core Skills
 
-- **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
-- **AI & Agentic Engineering** — AI agents, MCP workflows, Claude Code, Harness, LLM APIs (Anthropic, OpenAI, Gemini), Amazon Bedrock, Now Assist for Creator, Now Assist, LangChain / LangGraph, Prompt engineering, Agent workflows, Tool orchestration, Multi-model systems, REAct agents, Planning pattern (think first, then execute), Multi-agent orchestration, Local LLM inference (Ollama, MLX), On-device inference (iOS/Metal), llama.cpp / GGUF, Model quantization (GGUF ladders, imatrix), Vision-language models, LoRA fine-tuning (MLX), LLM evals (golden sets, LLM-as-judge, majority voting), RAG / keyword retrieval (BM25, FTS5)
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
+- **AI & Agentic Engineering** — AI agents, Agent UIs, MCP workflows, Claude Code, LLM APIs (Anthropic, OpenAI, Gemini), LangChain / LangGraph, Prompt engineering, Tool orchestration, Multi-model systems, Multi-agent orchestration, REAct agents, LLM evals (golden sets, LLM-as-judge), Agent evaluation & guardrails, AI governance (AI Agent Studio / Control Tower), RAG / keyword retrieval (BM25, FTS5)
+- **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
-- **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB, Meteor, Oracle Database, Oracle ODI, SQL / PLSQL
+- **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB
 - **CI/CD & Tooling** — GitHub Actions, Jenkins, Docker
 - **Observability** — Sentry, LogRocket, Datadog, Sumo Logic
 
@@ -60,12 +60,8 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 ## Personal Projects
 
 - [SpendIQ Copilot](https://github.com/xpressabhi/SpendIQ_Candidate) — Conversational spend-analysis agent: LangGraph ReAct over SQLite + FTS5 with SQL guardrails (SELECT-only, read-only connections), an AST-whitelisted calculator instead of eval, and a 14-case golden-set eval harness with majority voting, all passing
-- [ordo](https://xpressabhi.github.io/ordo/) — Ordo take-home, an on-device vision-language model built on Qwen2-VL-2B with llama.cpp across a GGUF quantization ladder, deployed to iPhone (A16), with a private photo eval set, per-stage TTFT decomposition, and LoRA accuracy recovery
+- [ordo](https://xpressabhi.github.io/ordo/) — On-device vision-language model built on Qwen2-VL-2B with llama.cpp across a GGUF quantization ladder, deployed to iPhone (A16), with a private photo eval set, per-stage TTFT decomposition, and LoRA accuracy recovery
 - [Revision](https://github.com/xpressabhi/revision) — Local-first Tauri desktop app for principal-level interview prep: FSRS-5 spaced repetition, drag & air gestures, single SQLite file, fully offline. DSA / system design / AI / behavioral decks with glassmorphic review, cloze + KaTeX, and 53-week analytics
-- [selftest.in](https://selftest.in) — Self-testing and government job preparation app powered by the Gemini API
-- [lifetimetax.vercel.app](https://lifetimetax.vercel.app) — Lifetime tax liability calculator
-- [airoadtripplanner.vercel.app](https://airoadtripplanner.vercel.app) — AI-powered road trip planner
-- [faang-cv.vercel.app](https://faang-cv.vercel.app) — CV builder tuned for FAANG-style applications
 
 ## Stats
 
