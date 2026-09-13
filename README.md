@@ -3,7 +3,7 @@
 Staff Software Engineer at **ServiceNow** — founded the **MCP-driven Agentic Developer Platform** used by **20+ teams** (Claude Code · MCP servers · agents · skills). AI Agents, MCP & agentic platform engineering. Ex-Rippling | Ex-Reputation | Ex-Oracle. NIT Trichy (MCA), 16+ years of software development from Hyderabad, India.
 
 - 🔌 Founded the **Agentic Developer Platform (ADP)** — multi-team bootstrap and governance for Claude Code, MCP servers, agents & skills: built in **4 weeks**, 20+ skills, 20+ agents, 20+ teams.
-- 🤖 Led the architecture of the **Build Agent in ServiceNow Studio** — metadata-aware, multi-model (Claude Opus 4.6 + Now LLM + Bedrock), self-healing agentic workflows across 35+ metadata types & 11 domains.
+- 🤖 Led the architecture of the **Build Agent in ServiceNow Studio** — metadata-aware, multi-model (Claude + Now LLM + Bedrock), self-healing agentic workflows across 35+ metadata types & 11 domains.
 - ⚡ **−95%** research & debugging effort, **−90%** case resolution time, **−90%** external defects on MCP-driven workflows.
 - 🏆 Patent holder (US20150046358) for importing tested objects into benefits programs at Oracle.
 - 🌱 Exploring AI-first development practices — mentoring engineers in agentic development.
@@ -54,7 +54,7 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 - **Agentic Developer Platform (ADP)** — Multi-team bootstrap and governance infrastructure for Claude Code, MCP servers, agents, and skills. Built in four weeks on a multi-agent orchestration pattern, rolled out to 7 pilot squads across 20+ teams with 20+ skills and 20+ agents.
 - **MCP-driven engineering workflows** — Integrated MCP-driven agentic workflows into the engineering lifecycle organization-wide. Reduced research and debugging effort by approximately 95% while improving accuracy.
-- **Build Agent, ServiceNow Studio** — Elevated App Engine with agentic workflows for AI-assisted application creation, flow generation, and tool orchestration across 35+ metadata types and 11 domains. Built on the planning pattern (think first, then execute) with a metadata-aware, multi-model (Claude Opus 4.6 default; Now LLM + Claude on Bedrock), self-healing agentic architecture.
+- **Build Agent, ServiceNow Studio** — Elevated App Engine with agentic workflows for AI-assisted application creation, flow generation, and tool orchestration across 35+ metadata types and 11 domains. Built on the planning pattern (think first, then execute) with a metadata-aware, multi-model (Claude default; Now LLM + Claude on Bedrock), self-healing agentic architecture.
 - **Release lifecycle & app summary agents** — Automated delta analysis, human-readable release notes, and CAB-ready deployment manifests: documentation time from hours to a single click. Built on the REAct agentic framework (reason → act → observe). Ships as the Release lifecycle documentation agent in Now Assist for Creator.
 
 ## Personal Projects
