@@ -31,11 +31,11 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 ## Core Skills
 
-- **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
 - **AI & Agentic Engineering** — AI agents, Agent UIs, MCP workflows, Claude Code, LLM APIs (Anthropic, OpenAI, Gemini), LangChain / LangGraph, Prompt engineering, Tool orchestration, Multi-model systems, Multi-agent orchestration, REAct agents, LLM evals (golden sets, LLM-as-judge), Agent evaluation & guardrails, AI governance (AI Agent Studio / Control Tower), RAG / keyword retrieval (BM25, FTS5)
+- **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
+- **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB
 - **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
-- **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB
 - **CI/CD & Tooling** — GitHub Actions, Jenkins, Docker
 - **Observability** — Sentry, LogRocket, Datadog, Sumo Logic
 
