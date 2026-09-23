@@ -31,19 +31,19 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 ## Core Skills
 
-- **AI & Agentic Engineering** — AI agents, Agent UIs, MCP workflows, Claude Code, LLM APIs (Anthropic, OpenAI, Gemini), LangChain / LangGraph, Prompt engineering, Tool orchestration, Multi-model systems, Multi-agent orchestration, REAct agents, LLM evals (golden sets, LLM-as-judge), Agent evaluation & guardrails, AI governance (AI Agent Studio / Control Tower), RAG / keyword retrieval (BM25, FTS5)
+- **AI & Agentic Engineering** — AI agents, Agent UIs, MCP workflows, Claude Code, LLM APIs (Anthropic, OpenAI, Gemini), LangChain / LangGraph, Prompt engineering, Tool orchestration, Multi-model systems, Multi-agent orchestration, REAct agents, LLM evals (golden sets, LLM-as-judge), Agent evaluation & guardrails, Human-in-the-loop agent design (plan → approve → execute → verify), AI governance (AI Agent Studio / Control Tower), RAG / keyword retrieval (BM25, FTS5)
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
 - **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB
 - **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
-- **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, WCAG / ARIA accessibility
+- **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, Performance profiling & tuning (production regressions, budgets), WCAG / ARIA accessibility
 - **CI/CD & Tooling** — GitHub Actions, Jenkins, Docker
-- **Observability** — Sentry, LogRocket, Datadog, Sumo Logic
+- **Observability** — Sentry, LogRocket, Datadog, Sumo Logic, Agent observability (reasoning traces, tool-selection errors, cost/latency), On-call & incident command
 
 ## Experience Highlights
 
 | Company | Role | Period |
 | :--- | :--- | :--- |
-| **ServiceNow** | Staff Software Engineer | Oct 2023 – Present |
+| **ServiceNow** | Staff Software Engineer | Oct 2023 – Aug 2026 |
 | **Rippling** | Senior Software Engineer | Oct 2022 – Aug 2023 |
 | **Reputation** | Lead Engineer | Sep 2020 – Sep 2022 |
 | **Worktech Software** | Co-Founder / Lead Developer | Jul 2017 – Aug 2020 |
