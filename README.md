@@ -65,6 +65,9 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 - [Switchyard](https://xpressabhi.github.io/sims/agentic-rag.html) — Interactive simulator for an agentic AI + RAG pipeline: watch ingestion, retrieval, tool calls, memory, and a live trace of every internal step while the loop runs.
 - [jev-browser](https://xpressabhi.github.io/jev-browser/) — Harness-agnostic TypeScript core that puts Jev (TypeSafe System One) in charge of browser decisions: one observed element and one operation per step, text-only payloads with no screenshots in the loop, zero runtime dependencies
 - [job-search-skills](https://xpressabhi.github.io/job-search-skills/) — Two portable agent skills that run an entire job search locally: job-finder sweeps boards and ranks roles by real eligibility, apply-to-jobs autofills and submits ATS applications in your own browser, and a Jev decision layer keeps uncertain answers uncertain
+- [intent](https://xpressabhi.github.io/intent/) — Repo-owned protocol and verifier for agent-driven changes: declared scope, protected tests, digest-bound approvals, and a green baseline
+- [job-radar](https://xpressabhi.github.io/job-radar/) — Daily crawl of senior+ frontend and AI engineering roles in India from company ATS boards into a static site with JSON/RSS feeds; zero runtime dependencies, forkable configuration
+- [tutor](https://xpressabhi.github.io/tutor/) — Adaptive tutor skill for AI coding agents: one question per turn, difficulty tuned to the learner, state on disk that survives a clean context
 
 ## Stats
 
