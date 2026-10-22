@@ -33,8 +33,8 @@ Staff/Principal roles building **AI agents, MCP tooling, or agentic platforms** 
 
 - **AI & Agentic Engineering** — AI agents, Agent UIs, MCP workflows, Claude Code, LLM APIs (Anthropic, OpenAI, Gemini), LangChain / LangGraph, Prompt engineering, Tool orchestration, Multi-model systems, Multi-agent orchestration, REAct agents, LLM evals (golden sets, LLM-as-judge), Agent evaluation & guardrails, Human-in-the-loop agent design (plan → approve → execute → verify), AI governance (AI Agent Studio / Control Tower), RAG / keyword retrieval (BM25, FTS5)
 - **Frontend & Platform** — JavaScript (ES6+), TypeScript, React, Next.js, Redux Toolkit, RTK Query, Node.js, Webpack, Vite, PWA
-- **Backend & Data** — Python, FastAPI, SQLite, Java, REST APIs, MongoDB
-- **Architecture** — System design, Scalable frontend architecture, Design patterns, Developer productivity, Metadata-driven development
+- **Backend & Data** — Python, FastAPI, SQLite, MySQL, Java, REST / GraphQL APIs, MongoDB
+- **Architecture** — System design, Scalable frontend architecture, Design systems & component libraries, Developer productivity, Metadata-driven development
 - **Reliability & Quality** — Jest, React Testing Library, Playwright, Performance optimization, Performance profiling & tuning (production regressions, budgets), WCAG / ARIA accessibility
 - **CI/CD & Tooling** — GitHub Actions, Jenkins, Docker
 - **Observability** — Sentry, LogRocket, Datadog, Sumo Logic, Agent observability (reasoning traces, tool-selection errors, cost/latency), On-call & incident command
